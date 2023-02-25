@@ -8,10 +8,10 @@
 const USER_CONFIG = {
   USE_PASSAGE: 'server-chan',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx1d43d290ec8a96d2',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '48435b54332ced5f21acb5c4c0ee4379',
+  APP_SECRET: '',
 
   PROVINCE: '湖南',
   CITY: '耒阳',
